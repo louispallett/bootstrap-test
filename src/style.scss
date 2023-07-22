@@ -1,0 +1,10 @@
+$box-radius: 10px;
+
+.container {
+    background-color: rgb(214, 213, 213);
+    margin-top: 20px;
+    border-radius: $box-radius;
+    &h1 {
+        font-style: italic;
+    }
+}
